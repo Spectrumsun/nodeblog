@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "requesting http",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunday taiwo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-sanitizer": "^1.0.2",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.7",
+    "nodemon": "^1.11.0",
+    "request": "^2.81.0"
+  }
+}
